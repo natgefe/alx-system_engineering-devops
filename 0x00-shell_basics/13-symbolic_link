@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls _ls_[D[D[D_ls__
+ln -s /bin/ls __ls__
