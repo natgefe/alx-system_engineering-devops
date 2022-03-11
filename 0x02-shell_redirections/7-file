@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > "\*\\\*\"Best SChool\"[D[D[D[Dch[C[C[C[C[C\*\\\*$\?\*\*\*\*\*:)"
+echo "Best School" > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
